@@ -1,0 +1,8 @@
+{
+  "name": "Nestlé Careers Challenge",
+  "description": "An interactive department matching game designed for Nestlé branding, featuring smooth drag-and-drop mechanics and real-time feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
